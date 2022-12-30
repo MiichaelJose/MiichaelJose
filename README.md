@@ -3,7 +3,7 @@ Olá! :wave:
 Meu nome é Michael e sou um desenvolvedor júnior altamente motivado e apaixonado por programação. :nerd_face: Sou estudante e estou constantemente buscando maneiras de aperfeiçoar minhas habilidades e conhecimentos na área. :books:
 
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/2111/2111499.png)](https://www.linkedin.com/in/michaeljosé)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/2111/2111499.png){:height="50px" width="50px"}](https://www.linkedin.com/in/michaeljosé)
 
 [**💻 Meu perfil no LinkedIn**](https://www.linkedin.com/in/michaeljosé)
 
