@@ -5,8 +5,9 @@ Sou um desenvolvedor júnior altamente motivado e apaixonado por programação. 
 
 Aqui está um resumo das minhas habilidades:
 
-Desenvolvimento de back-end com Java e PHP :coffee:
-Desenvolvimento de sistemas web com HTML, CSS, JavaScript e React :sparkles:
-Desenvolvimento de aplicativos móveis com React Native :iphone:
-Familiaridade com metodologias ágeis SCRUM e Kanban :calendar:
+> -Desenvolvimento de back-end com Java e PHP :coffee:
+> -Desenvolvimento de sistemas web com HTML, CSS, JavaScript e React :sparkles:
+> -Desenvolvimento de aplicativos móveis com React Native :iphone:
+> -Familiaridade com metodologias ágeis SCRUM e Kanban :calendar:
+
 Estou sempre em busca de novas oportunidades de aprendizado e crescimento profissional. Se você estiver interessado em trabalhar comigo, ficarei feliz em conversar mais sobre minhas habilidades e experiência. :smile:
